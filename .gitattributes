@@ -1,0 +1,4 @@
+# Gli script girano in WSL/Linux: fine riga sempre LF, anche se il repo sta su Windows.
+*.sh text eol=lf
+todo text eol=lf
+*.md text eol=lf
